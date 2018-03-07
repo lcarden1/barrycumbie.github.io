@@ -24,7 +24,7 @@ $(document).ready(function() {
 		
 	
 	document.var all = document.getElementsByTagName("*");
-	
+	console.log(all);
 	
 	
 	
